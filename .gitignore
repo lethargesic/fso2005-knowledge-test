@@ -10,3 +10,20 @@ Thumbs.db
 
 # Node
 node_modules/
+
+# Android build outputs
+android/app/build/
+android/.gradle/
+android/build/
+android/local.properties
+
+# Keystore (sensitive - don't commit)
+*.keystore
+!*.keystore.example
+
+# App icons (source assets, not needed in repo)
+app_icon.png
+playstore_icon_512.png
+
+# Generated APKs
+*.apk

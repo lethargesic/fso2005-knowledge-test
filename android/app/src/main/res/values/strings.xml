@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FSO 2005 Test</string>
+    <string name="title_activity_main">FSO 2005 Knowledge Test</string>
+    <string name="package_name">uk.daveleonard.fso2005test</string>
+</resources>

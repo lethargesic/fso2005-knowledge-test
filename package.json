@@ -1,0 +1,25 @@
+{
+  "name": "fso2005-knowledge-test",
+  "version": "1.0.0",
+  "description": "An interactive web app for testing your knowledge of the **Regulatory Reform (Fire Safety) Order 2005** (RRFSO 2005) — the main fire safety legislation for non-domestic premises in England and Wales.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lethargesic/fso2005-knowledge-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lethargesic/fso2005-knowledge-test/issues"
+  },
+  "homepage": "https://github.com/lethargesic/fso2005-knowledge-test#readme",
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3"
+  }
+}
