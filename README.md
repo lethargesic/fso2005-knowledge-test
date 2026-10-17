@@ -11,7 +11,7 @@ An interactive web app and Android app for testing your knowledge of the **Regul
 - **Flagged for Review**: highlight questions you want to revisit, even if you got them right
 - **Article tooltips**: hover over any Article reference to see a plain-English summary
 - **Progress persistence**: your progress is saved in the browser (localStorage) / app
-- **Brand styling**: uses the Irwell Valley Homes colour scheme and Helvetica Neue font
+
 
 ## Sections Covered
 
